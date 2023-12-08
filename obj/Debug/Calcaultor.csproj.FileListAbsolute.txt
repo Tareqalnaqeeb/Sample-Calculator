@@ -1,0 +1,24 @@
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\bin\Debug\Calcaultor.exe.config
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\bin\Debug\Calcaultor.exe
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\bin\Debug\Calcaultor.pdb
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\bin\Debug\Guna.UI2.dll
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\obj\Debug\Calcaultor.csproj.AssemblyReference.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\obj\Debug\Calcaultor.Form1.resources
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\obj\Debug\Calcaultor.Properties.Resources.resources
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\obj\Debug\Calcaultor.csproj.GenerateResource.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\obj\Debug\Calcaultor.csproj.CoreCompileInputs.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\obj\Debug\Calcaultor.csproj.CopyComplete
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\obj\Debug\Calcaultor.exe
+E:\Mohammed Abu-Hadhoud\Course(14) C#\Calcaultor\obj\Debug\Calcaultor.pdb
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\bin\Debug\Calcaultor.exe.config
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\bin\Debug\Calcaultor.exe
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\bin\Debug\Calcaultor.pdb
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\bin\Debug\Guna.UI2.dll
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\obj\Debug\Calcaultor.csproj.AssemblyReference.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\obj\Debug\Calcaultor.Form1.resources
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\obj\Debug\Calcaultor.Properties.Resources.resources
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\obj\Debug\Calcaultor.csproj.GenerateResource.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\obj\Debug\Calcaultor.csproj.CoreCompileInputs.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\obj\Debug\Calcaultor.csproj.CopyComplete
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\obj\Debug\Calcaultor.exe
+E:\Mohammed Abu-Hadhoud\Course(14) C#\My Projects C#\Calcaultor\obj\Debug\Calcaultor.pdb
